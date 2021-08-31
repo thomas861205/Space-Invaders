@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Fri May 26 13:04:28 2017
+# Process ID: 5072
+# Current directory: C:/Users/Thomas/Desktop/logicDesignLab/final project/proto_00/proto_00.runs/synth_1
+# Command line: vivado.exe -log top.vds -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/Thomas/Desktop/logicDesignLab/final project/proto_00/proto_00.runs/synth_1/top.vds
+# Journal file: C:/Users/Thomas/Desktop/logicDesignLab/final project/proto_00/proto_00.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
+Command: synth_design -top top -part xc7a35tcpg236-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7a35t'
+INFO: Launching helper process for spawning children vivado processes
+INFO: Helper process launched with PID 5392 
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:11 ; elapsed = 00:00:13 . Memory (MB): peak = 288.328 ; gain = 81.496
+---------------------------------------------------------------------------------
